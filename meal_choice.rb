@@ -3,4 +3,4 @@
 def meal_choice(selection = "meat")
   puts "I want #{selecton}."
 end
-meal_choice
+meal_choice("steak")
